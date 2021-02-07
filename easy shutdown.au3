@@ -80,7 +80,3 @@ Func mode($mod, $num)
 		Shutdown($num)
 	EndIf
 EndFunc   ;==>mode
-
-Func _ex()
-	Exit
-EndFunc   ;==>_ex
